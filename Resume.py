@@ -1,4 +1,5 @@
 print("RESUME")
+print("Fill the form below please!")
 firstName = input("First name: ")
 lastName = input("Last Name: ")
 age = int(input("Age: "))
